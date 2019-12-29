@@ -9,6 +9,6 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* [DOTA2](http://blog.dota2.com/?l=english)
 
 
