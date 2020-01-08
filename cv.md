@@ -14,4 +14,4 @@ comments: false
 
 |     |    |**Education**                                                               |
 |-----|----|----------------------------------------------------------------------------------|
-|1997 |2001| **BS**, Computer Engineering, iran university of science and technology, Tehran, Iran               |
+|2019 |2023| **BS**, Computer Engineering, iran university of science and technology, Tehran, Iran               |
