@@ -17,5 +17,5 @@ gallery:
     title: "profile picture"    
 ---
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="Welcome To My Galley." %}
 
