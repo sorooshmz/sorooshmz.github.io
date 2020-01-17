@@ -13,7 +13,7 @@ comments: false
 |----|------|--------------------------------|
 |2019|Fall  | **<a href="https://sauleh.github.io/fc98/">Computer Programming Fundamentals</a>**         
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="https://sorooshmz.github.io/course_template/">IOT</a>** |
+|2019|Fall  | **<a href="https://sorooshmz.github.io/IOT/">IOT</a>** |
 |----|------|--------------------------------|
 |2019|Fall  | **<a href="https://sauleh.github.io/fc98/">Computer Lab</a>** |
 

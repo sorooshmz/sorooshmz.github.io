@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "soroosh mahdizadeh"
+title                    : "Soroosh Mahdizadeh"
 title_separator          : "-"
 name                     : "soroosh" 
 description              : "Welcome to my web site."
@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : notwitter
+  username               : None
 facebook:
-  username               : nofacebook
+  username               : None
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -108,22 +108,22 @@ analytics:
 # Site Author
 author:
   name             : "soroosh mahdizade"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : iust student
-  location         : "تهران"
+  avatar           : "/assets/images/prof.jpg"
+  bio              : Computer Engineering -IUST
+  location         : "Tehran"
   email            : 
   twitter: 
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
   github: sorooshmz
-  instagram: 
+  instagram:  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
+      url: mailto:soroosh_mahdizadeh@comp.iust.ac.ir
+    - label: "IOT"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://sorooshmz.github.io/IOT/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -132,7 +132,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/sorooshmz"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -148,7 +148,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/sorooshmz"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
