@@ -120,7 +120,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:soroosh_mahdizadeh@comp.iust.ac.ir
+      url: soroosh_mahdizadeh@comp.iust.ac.ir
     - label: "IOT"
       icon: "fas fa-fw fa-link"
       url: "https://sorooshmz.github.io/IOT/"
